@@ -83,6 +83,12 @@ pre.pre code {
     padding: 0px;
 }
 
+/*redundant or baw para asa AHAHAHA oks raman ghapon output manaa or wala ni*/
+div.content{
+    width: 72%;
+    text-align: center;
+}
+
 nav{
     width: 100%;
     text-align: right;
